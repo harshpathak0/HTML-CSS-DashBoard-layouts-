@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout 6</title>
+</head>
+<body>
+    <div style="height: 10vh; background-color: rgb(164, 159, 168); display: flex; margin: 0%">
+        <div style="height: 10vh;  width :5vw; background-color: (69, 69, 70); color: aliceblue; font-size: 20px; display: flex;">LOGO</div>
+    </div>
+    
+    <div style="height: 80vh;">
+    <div style="height: 20vh; width:77vw; display: flex; margin-top: 10px; background-color: rgb(164, 159, 168); margin-left: 280px;">
+        <p style="color: aliceblue; font-size: 20px; margin: 0%;"> Body</p>
+    </div>
+
+        <div style="height: 60vh; width: 77vw; background-color: rgb(164, 159, 168) ; margin-left: 280px; margin-top: 10px;">
+            <p style="color: aliceblue; font-size: 20px; margin: 0%;"> Body Area</p>
+        </div>
+    </div>
+
+    <div style="height: 20vh; background-color:rgb(164, 159, 168); margin-top: 20px; color:aliceblue; font-size: 20px;">Footer</div>
+</body>
+</html>

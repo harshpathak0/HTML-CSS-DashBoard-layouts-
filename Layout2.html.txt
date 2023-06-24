@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="height: 10vh; background-color: rgb(69, 69, 70);color: aliceblue; font-size: 30px;">Header</div>
+
+    <div style="height: 10vh; background-color: rgb(164, 159, 168); color: aliceblue; font-size: 30px;">Navigation</div>
+
+    <div style="height: 40vh; background-color: rgb(164, 159, 168); border: 2px solid rgb(253, 248, 248);  display: flex; ">
+        
+        <p style="color: aliceblue; font-size: 30px; margin: 0%;"> Body</p>
+      
+    </div>
+
+    <div style="height: 40vh;  border: 2px solid rgb(253, 248, 248);  display: flex; ">
+        <div style="height: 262px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 70px; "></div>
+        <div style="height: 262px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 195px;"></div>
+        <div style="height: 262px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 210px;"></div>
+    </div>
+
+    <div style="height: 20vh; background-color: rgb(69, 69, 70); border: 2px solid rgb(250, 249, 249); color: aliceblue;font-size: 30px;">Footer</div>
+</body>
+</html>
