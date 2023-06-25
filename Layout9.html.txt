@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout 9</title>
+</head>
+<body>
+
+    
+    <div style="height: 10vh;  background-color: rgb(217, 217, 217); color: aliceblue; font-size: 30px; display: flex;">
+        <div style="height: 5vh;  width :2.5vw; background-color:gray; color: aliceblue; font-size: 20px; margin-left: 10px; margin-top: 15px; border-radius: 50%;"></div>
+        <div style="height: 5vh;  width :70vw; background-color:gray; color: aliceblue; font-size: 20px; margin-left: 100px; margin-top: 15px; border-radius: 5px;"></div>
+    </div>
+
+
+    <div style="height: 40vh; width: 50vw; background-color: rgb(217, 217, 217); color: aliceblue; font-size: 20px; display: flex; margin-top: 10px;">
+     <div style="height: 40vh; width: 40vw; display: flex; margin-left: 750px; ">
+        <div style="height: 30vh; width:40vw; background-color: rgb(150, 143, 143); margin-top: 25px;"></div>
+     </div>
+    </div>
+
+
+    <div style="height: 40vh;  border: 2px solid rgb(253, 248, 248);  display: flex; ">
+        <div style="height: 200px; width: 260px; background-color: rgb(217, 217, 217); margin-left: 70px; margin-top: 3%;">
+          <div style="height: 30px; width:220px; margin-top: 230px; background-color: gray; "></div>
+        </div>
+        <div style="height: 200px; width: 260px; background-color: rgb(217, 217, 217); margin-left: 195px; margin-top: 3%;">
+         <div style="height: 30px; width:220px; margin-top: 230px; background-color: gray; "></div>
+        </div>
+        <div style="height: 200px; width: 260px; background-color: rgb(217, 217, 217); margin-left: 210px; margin-top: 3%;">
+         <div style="height: 30px; width:220px; margin-top: 230px; background-color: gray; "></div>
+        </div>
+    </div>
+
+
+    <div style="height: 40vh;  border: 2px solid rgb(253, 248, 248);margin-top: 20px;  display: flex; ">
+        <div style="height: 200px; width: 260px; background-color: rgb(217, 217, 217); margin-left: 70px; margin-top: 3%;">
+          <div style="height: 30px; width:220px; margin-top: 230px; background-color: gray; "></div>
+        </div>
+        <div style="height: 200px; width: 260px; background-color: rgb(217, 217, 217); margin-left: 195px; margin-top: 3%;">
+         <div style="height: 30px; width:220px; margin-top: 230px; background-color: gray; "></div>
+        </div>
+        <div style="height: 200px; width: 260px; background-color: rgb(217, 217, 217); margin-left: 210px; margin-top: 3%;">
+         <div style="height: 30px; width:220px; margin-top: 230px; background-color: gray; "></div>
+        </div>
+    </div>
+
+    <div style="height: 40vh; background-color: rgb(217, 217, 217); margin-top: 60px;"></div>
+
+
+</body>
+</html>

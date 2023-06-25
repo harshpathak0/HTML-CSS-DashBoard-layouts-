@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout 5</title>
+</head>
+<body>
+    <div style="height: 10vh;  background-color: rgb(164, 159, 168); color: aliceblue; font-size: 30px; display: flex;">
+        <div style="height: 10vh;  width :5vw; background-color: (69, 69, 70); color: aliceblue; font-size: 20px;"> LOGO</div>
+    </div>
+    
+    <div style="height: 30vh;  background-color: rgb(164, 159, 168); color: aliceblue; font-size: 20px; display: flex; margin-top: 10px;">Header</div>
+    
+    
+    <div style="height: 10vh; margin-top: 1%; display: flex;">
+        <div style="height: 10vh;  width :16vw; background-color: rgb(164, 159, 168); color: aliceblue; font-size: 20px; "> Navigation</div>
+        <div style="height: 10vh;  width :16vw; background-color: rgb(164, 159, 168); color: aliceblue; font-size: 20px; margin-left: 75px; "></div>
+        <div style="height: 10vh;  width :16vw; background-color: rgb(164, 159, 168); color: aliceblue; font-size: 20px; margin-left: 75px;"> </div>
+        <div style="height: 10vh;  width :16vw; background-color: rgb(164, 159, 168); color: aliceblue; font-size: 20px; margin-left: 75px;"> </div>
+        <div style="height: 10vh;  width :16vw; background-color: rgb(164, 159, 168); color: aliceblue; font-size: 20px; margin-left: 75px;"> </div>
+    </div>
+
+    <div style="height: 60vh;  border: 2px solid rgb(253, 248, 248);  display: flex; margin-top: 10px;">
+        <div style="height: 60vh; width: 20vw; background-color: rgb(164, 159, 168); margin:0%">
+            <p style="color: aliceblue; font-size: 20px; margin: 0%;"> Side Bar</p>
+        </div>
+        <div style="height: 60vh; width: 78vw; background-color: rgb(164, 159, 168) ; margin-left: 10px;">
+            <p style="color: aliceblue; font-size: 20px; margin: 0%;"> Body Area</p>
+        </div>
+    </div>
+
+     
+    <div style="height: 40vh;  border: 2px solid rgb(253, 248, 248);  display: flex; ">
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 70px; margin-top: 3%;"><p style="color: aliceblue; font-size: 20px; text-align: center;">Services</p></div>
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 195px; margin-top: 3%;"><p style="color: aliceblue; font-size: 20px; text-align: center;">Services</p></div>
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 210px; margin-top: 3%;"><p style="color: aliceblue; font-size: 20px; text-align: center;">Services</p></div>
+    </div>
+
+    <div style="height: 20vh; background-color:rgb(164, 159, 168); border: 2px solid rgb(250, 249, 249); color: aliceblue;font-size: 20px; margin-top: 10px;">Footer</div>
+</body>
+</html>

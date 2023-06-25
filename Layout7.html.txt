@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout 7</title>
+</head>
+<body>
+    <div style="height: 50vh;  background-color: rgb(164, 159, 168); color: aliceblue; font-size: 30px; display: flex;">
+        <div style="height: 10vh;  width :5vw; background-color: (69, 69, 70); color: aliceblue; font-size: 20px; ">LOGO</div>
+        <div style="height: 30vh;  width :40vw; background-color: rgb(164, 159, 168); font-size: 20px; margin-left: 5px; margin-top: 100px;"><p style="font-size: x-large;">Intro</p></div>
+        <div style="height: 30vh;  width :40vw; background-color:gray; font-size: 20px; margin-left: 150px; margin-top: 100px;"><p>Featured Project Slider</p></div>
+        
+    </div>
+    
+
+
+    <div style="height: 40vh;  border: 2px solid rgb(253, 248, 248);  display: flex; ">
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 70px; margin-top: 3%;"></div>
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 195px; margin-top: 3%;"></div>
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 210px; margin-top: 3%;"></div>
+
+    </div>
+
+    <div style="height: 40vh;  border: 2px solid rgb(253, 248, 248);  display: flex; ">
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 70px; margin-top: 3%;"></div>
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 195px; margin-top: 3%;"></div>
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 210px; margin-top: 3%;"></div>
+    </div>  
+    
+    <div style="height: 40vh;  border: 2px solid rgb(253, 248, 248);  display: flex; ">
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 70px; margin-top: 3%;"></div>
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 195px; margin-top: 3%;"></div>
+        <div style="height: 200px; width: 260px; background-color: rgb(164, 159, 168); margin-left: 210px; margin-top: 3%;"></div>
+    </div>
+
+    <div style="height: 20vh; width:87vw ; background-color:rgb(164, 159, 168);margin-left: 70px; margin-top: 2%; color: aliceblue;font-size: 20px;"></div>
+    <div style="height: 20vh; background-color:rgb(164, 159, 168);margin-top: 2%; color: aliceblue;font-size: 20px;">Footer</div>
+</body>
+</html>
