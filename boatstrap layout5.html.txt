@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website 5</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+ </head>
+ <body>
+    <nav class="navbar bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand"> <b>wrangler</b></a>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+
+      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid" style="background-color: rgb(218, 215, 215);">
+          <a class="navbar-brand" href="#">Collection</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Men's</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Women's</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Sale</a>
+              </li>
+            </ul>
+            <span class="navbar-text">
+              New In
+            </span>
+          </div>
+        </div>
+      </nav>
+
+      <div class="row" style="background-color: rgb(65, 185, 201); height: 300px;margin-top: 10px;" >
+        <img src="https://www.wrangler.in/media/catalog/category/Jeans_9.jpg" alt="">
+        </div>
+
+        <div class="card rounded float-start" style="width: 18rem; margin-top: 30px; margin-left: 100px;" >
+            <img src="https://www.wrangler.in/media/catalog/product/cache/458x458/p/r/prod_2fproduct-image_2faceomni_2fwrangler_2fmyntra_2fw28986w22944_2fw28986w22944_2.jpg "  class="card-img-top" alt="...">
+            <div class="card-body">
+              <p class="card-text"><b> Vegas Grey Skinny Jeans</b></p>
+            </div>
+          </div>
+    
+         <div class="card rounded float-end" style="width: 18rem; margin-top: 30px; margin-right:100px;" >
+            <img src="https://www.wrangler.in/media/catalog/product/cache/458x458/w/m/wmjn005533_2.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <p class="card-text"><b> Men's Millard Blue Jeans (Straight)</b></p>
+            </div>
+          </div>
+          
+         <div class="card rounded mx-auto d-block" style="width: 18rem; margin-top: 30px; " >
+            <img src="https://www.wrangler.in/media/catalog/product/cache/458x458/w/m/wmjn004999_3.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <p class="card-text"><b>Men's Bostin Cropped Blue Jeans (Slim)</b></p>
+            </div>
+            </div>
+      
+ </body>
+ </html>

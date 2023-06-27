@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website 3</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+</head>
+<body>
+    <nav  class="navbar bg-dark border-bottom border-bottom-dark" data-bs-theme="dark" >
+        <div class="container-fluid" >
+          <a class="navbar-brand" href="#"><b>PhotoPia</b></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          </div>
+        </div>
+        </nav>
+        
+      <div style="background-color: rgb(255, 255, 255);height: 50px; box-shadow: 1px 1px 5px 5px rgb(153, 151, 151);">
+      <nav aria-label="breadcrumb" >
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="#">Showcase</a></li>
+          <li class="breadcrumb-item"><a href="#">Recent</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Learn & support</li>
+        </ol>
+      </nav>
+     </div>
+       
+     <div class="card rounded float-start" style="width: 18rem; margin-top: 30px; margin-left: 100px;" >
+        <img src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text"><b>Lachlan Dempsey</b></p>
+        </div>
+      </div>
+
+     <div class="card rounded float-end" style="width: 18rem; margin-top: 30px; margin-right:100px;" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text"><b>Joshua Hanson</b></p>
+        </div>
+      </div>
+      
+     <div class="card rounded mx-auto d-block" style="width: 18rem; margin-top: 30px; " >
+        <img src="https://johnstillk8.scusd.edu/sites/main/files/main-images/camera_lense_0.jpeg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text"><b>John Still K-8</b></p>
+        </div>
+        </div>
+  
+
+</body>
+</html>
